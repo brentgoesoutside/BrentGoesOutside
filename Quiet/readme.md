@@ -3,7 +3,7 @@
 
 Quiet people, places, and moments have meaningful things to say, but such is the way of the world that the louder and bolder tend to get more attention. I am decidedly a quiet person, preferring to be sure of what I say rather than speak too soon. Thus, I have found a kinship with the natural world, where quiet places and moments are much more common than in humanity - not just audibly, but in terms of being uninterested in attention-grabbing. I admire that the natural world has no ego to feed.
 
-This collection of images with soft light, pastel colors, smooth shapes, and simple subjects serves as a platform for the quiet ones whose important messages are not always heard.
+This collection showcases images with gentle features, such as soft light, pastel colors, smooth shapes, and simple subjects, in order to serve as a platform for the quiet ones whose important messages are not always heard.
 
 *Updated: 2024-04-17*
 
@@ -172,9 +172,9 @@ Canyon Colors
 
 ---
 
-<img src="./Just Chillin'.jpg"/>
+<img src="./Just Chillin.jpg"/>
 
-Just Chillin'
+Just Chillin
 
 ---
 
