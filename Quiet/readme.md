@@ -1,22 +1,11 @@
 
-<style>
-h1 {text-align: center;}
-p.intro {text-align: left;}
-p {text-align: center;}
-div {text-align: center;}
-img { 
-    padding: 50px 0px 5px 0px;
-    width: 500px;
-}
-</style>
+# Quiet
 
-<h1>Quiet</h1>
+Quiet people, places, and moments have meaningful things to say, but such is the way of the world that the louder and bolder tend to get more attention. I am decidedly a quiet person, preferring to be sure of what I say rather than speak too soon. Thus, I have found a kinship with the natural world, where quiet places and moments are much more common than in humanity - not just audibly, but in terms of being uninterested in attention-grabbing. I admire that the natural world has no ego to feed.
 
-<p class="intro">Quiet people, places, and moments have meaningful things to say, but such is the way of the world that the louder and bolder tend to get more attention. I am decidedly a quiet person, preferring to be sure of what I say rather than speak too soon. Thus, I have found a kinship with the natural world, where quiet places and moments are much more common than in humanity - not just audibly, but in terms of being uninterested in attention-grabbing. I admire that the natural world has no ego to feed.</p>
+This collection of images with soft light, pastel colors, smooth shapes, and simple subjects serves as a platform for the quiet ones whose important messages are not always heard.
 
-<p class="intro">This collection of images with soft light, pastel colors, smooth shapes, and simple subjects serves as a platform for the quiet ones whose important messages are not always heard.</p>
-
-<p class="intro">Updated: 2024-04-17</p>
+*Updated: 2024-04-17*
 
 <img src="./2018_UT_Riparian Rainbow.jpg"/>
 
@@ -127,13 +116,13 @@ Evanescent
 
 Canyon Colors
 
-<img src="./2021_UT_Caring For Life.jpg"/>
-
-Caring For Life
-
 <img src="./2021_WY_Just Chillin'.jpg"/>
 
 Just Chillin'
+
+<img src="./2021_UT_Caring For Life.jpg"/>
+
+Caring For Life
 
 <img src="./2022_UT_Only Half Awake.jpg"/>
 
@@ -146,13 +135,3 @@ Context and Contents
 <img src="./2021_WY_High Light.jpg"/>
 
 High Light
-
-
-
-
-
-
-
-
-
-
