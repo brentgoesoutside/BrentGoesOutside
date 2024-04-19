@@ -1,6 +1,6 @@
 # Discoveries
 
-One of the things I most cherish about photography is the opportunity it provides for exploration and the spirit discovery. I'm not an intrepid explorer or cutting-edge scientist, but as long as I have an open mind and a camera I can experience the joy of discovering new things. I enjoy following my curiosity wherever it leads me, be it a novel subject, a way of reinterpreting a familiar subject, an unusual color palette, or a new technique, visual metaphor, or idea.
+One of the things I most cherish about photography is the opportunity it provides for exploration and the spirit of discovery. I'm not an intrepid explorer or cutting-edge scientist, but as long as I have an open mind and a camera I can experience the joy of discovering new things. I enjoy following my curiosity wherever it leads me, be it a novel subject, a way of reinterpreting a familiar subject, an unusual color palette, or a new technique, visual metaphor, or idea.
 
 The best part is that these discoveries can happen at just about any place and time - from a wilderness landscape with epic light to a humble nearby nature conservancy in the middle of the day. It helps to hone my observation skills and to take interest in my surroundings at the present moment, no matter how mundane or spectacular it might be. Whether I manage to make a photograph or not, the process elevates my lived experience.
 
