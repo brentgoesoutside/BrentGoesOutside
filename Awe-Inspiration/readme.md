@@ -7,7 +7,13 @@ The best way for me (and I suspect for most people) to continually feel these el
 
 The photographs in this gallery represent moments where my spirits lifted, my heart-rate increased, and I could do nothing but focus on what was unfolding in front of me.
 
-*Updated: 2024-04-17*
+*Updated: 2024-09-18*
+
+---
+
+<img src="./Exactly.jpg"/>
+
+Amor Fati
 
 ---
 
