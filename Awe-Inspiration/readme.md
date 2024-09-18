@@ -13,7 +13,7 @@ The photographs in this gallery represent moments where my spirits lifted, my he
 
 <img src="./Exactly.jpg"/>
 
-Amor Fati
+Exactly
 
 ---
 
